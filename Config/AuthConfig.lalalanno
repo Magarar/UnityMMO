@@ -1,0 +1,3 @@
+SET Authentication Connection IP = "127.0.0.1"
+SET Authentication Connection PORT = "4523"
+SET Language = "EnUs"
